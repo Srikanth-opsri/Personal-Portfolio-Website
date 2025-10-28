@@ -1,0 +1,127 @@
+
+<!DOCTYPE html>
+<!-- saved from url=(0094)file:///C:/Users/Admin/OneDrive/Desktop/New%20folder/my%20portifilo/my%204/my4.html#About%20Me -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<title>My portifolio </title><link rel="stylesheet" href="./my portfilo_files/my4.css"></head>
+
+
+
+  <body>
+  <header>
+    <div class="logo"> <img src="./my portfilo_files/evxek1p4.png" alt="logo"> Srikanth </div>
+    <nav>
+      <ul class="nav-links">
+        <li><a href="file:///C:/Users/Admin/OneDrive/Desktop/New%20folder/my%20portifilo/my%204/my4.html#Home">Home</a></li>
+        <li><a href="file:///C:/Users/Admin/OneDrive/Desktop/New%20folder/my%20portifilo/my%204/my4.html#About">About</a></li>
+        <li><a href="file:///C:/Users/Admin/OneDrive/Desktop/New%20folder/my%20portifilo/my%204/my4.html#Skills">Skills</a></li>
+        <li><a href="file:///C:/Users/Admin/OneDrive/Desktop/New%20folder/my%20portifilo/my%204/my4.html#Works">Work</a></li>
+        <li><a href="file:///C:/Users/Admin/OneDrive/Desktop/New%20folder/my%20portifilo/my%204/my4.html#Contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-text">
+      <h1>Hi There,<br> I'm <span>Srikanth</span></h1>
+      <p>I Am Into <span class="highlight">Web Developing</span></p>
+      <ul>
+      <a href="file:///C:/Users/Admin/OneDrive/Desktop/New%20folder/my%20portifilo/my%204/my4.html#About%20Me" class="btn">About Me</a>
+      </ul>
+      
+    </div>
+   
+    <div>
+      <img src="data:image/jpeg;base64,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" alt="avatar">
+    </div>
+    </section>
+    <div>
+    <section id="Home">
+        <h2>Home</h2><br>
+        <p>"Hi, I'm Bodagala Srikanth, a passionate and self-motivated web developer. I have a solid understanding of HTML and CSS, and I enjoy building clean, responsive, and user-friendly websites. I am currently working on personal projects to improve my front-end development skills. I am eager to learn, grow, and contribute to innovative web solutions in the tech industry."
+        </p>
+    </section>
+    <br><br>
+
+    <section id="About">
+        <h2>About</h2><br>
+        <p>
+            "Hello! I'm Bodagala Srikanth, a passionate and dedicated web developer based in India. I specialize in front-end development with strong skills in HTML and CSS, and I'm continuously learning modern technologies to stay ahead in the field.
+
+I began my journey in web development out of curiosity and quickly developed a love for creating user-friendly, visually appealing websites. I enjoy writing clean, efficient code and turning design ideas into interactive digital experiences.
+
+Right now, I’m focused on building real-world projects to improve my skills, strengthen my portfolio, and prepare myself for professional opportunities. I believe in lifelong learning, and I’m currently exploring responsive design, accessibility, and best practices in UI/UX.
+
+When I’m not coding, I enjoy exploring tech trends, reading about productivity, and helping others learn the basics of web development. I’m open to collaborations, internships, and entry-level opportunities that allow me to grow and contribute to meaningful projects."
+
+
+        </p>
+    </section>
+    <br><br>
+    <section id="Skills">
+        <br>
+        <h2>Skills</h2>
+        <br>
+
+        <p>
+            "I have a strong foundation in front-end web development, with practical experience in using HTML5 and CSS3 to build clean, responsive, and well-structured websites. I’m confident in applying modern layout techniques such as Flexbox and CSS Grid, and I understand the importance of semantic coding and accessibility. I also use tools like Visual Studio Code, Git, and Chrome DevTools to streamline development and debugging. In addition to technical skills, I bring strong problem-solving abilities, a willingness to learn, and good communication, which help me collaborate effectively in any team or project environment."
+
+
+        </p>
+    </section><br><br>
+     <div>
+        <section id="About Me">
+            <h2>About Me</h2>
+            <p>
+                Hello! I'm Bodagala Srikanth, a passionate and self-motivated web developer with a strong foundation in HTML and CSS. I enjoy creating clean, user-friendly, and responsive websites. My learning journey began with a curiosity for design and technology, and I've since completed several hands-on projects that showcase my creativity and attention to detail. I'm always eager to expand my skill set, collaborate with others, and contribute to exciting digital experiences. Let's build something amazing together! 
+
+
+            </p>
+
+
+        </section>
+    </div>
+    <br><br>
+    <section id="Works">
+        <br>
+        <h2>Works</h2>
+        <br>
+
+        <p>
+            "I have worked on several web development projects that demonstrate my skills in HTML and CSS. These include responsive landing pages, personal portfolios, and simple multi-page websites. Each project reflects my focus on clean design, responsive layout, and user experience. I enjoy transforming creative ideas into real websites and continuously seek to improve my design and coding skills through hands-on practice."
+        </p>
+    </section><br><br>
+    <section id="Contact">
+  <h2>Contact Me</h2>
+  <p>Let’s build something great together! You can reach me at:</p>
+  <ul>
+    <li>Email: <a href="https://workspace.google.com/intl/en-US/gmail/">sri@gmail.com</a></li>
+  </ul>
+</section>
+
+
+    </div>
+  <footer>
+     <div class="footer-content">
+    <p>© 2025 Srikanth. All rights reserved.</p>
+    <div class="social-icons">
+          <div class="social-links">
+        <a href="https://www.facebook.com/" target="_blank">
+            <img src="./my portfilo_files/124010.png" alt="Facebook">
+        </a>
+        <a href="https://www.youtube.com/" target="_blank">
+            <img src="./my portfilo_files/1384060.png" alt="YouTube">
+        </a>
+        <a href="https://www.instagram.com/" target="_blank">
+            <img src="./my portfilo_files/174855.png" alt="Instagram">
+        </a>
+        <a href="https://www.linkedin.com/" target="_blank">
+            <img src="./my portfilo_files/174857.png" alt="LinkedIn">
+        </a>
+    </div>
+      </div>
+  </div></footer>
+
+</body></html>
